@@ -14,18 +14,17 @@ This application provides a **simple interactive command-line interface** for pe
 
 ---
 
-## Usage Example
 Choose:
 1. Create a File      2. Delete a File
 3. Search a File      4. Modify File
 5. Print data        6. Exit
 
-Your Choice: 1
-Enter Path (without file): D:\Files
-Enter file name with extension: example.txt
-File Created Successfully!
-Do you want to add text (y/n): y
-Enter new data: Hello, this is a sample text.
+Your Choice: 1  
+Enter Path (without file): D:\Files  
+Enter file name with extension: example.txt  
+File Created Successfully!  
+Do you want to add text (y/n): y  
+Enter new data: Hello, this is a sample text.  
 Data written to file successfully.
 
 Choose:
@@ -33,7 +32,8 @@ Choose:
 3. Search a File      4. Modify File
 5. Print data        6. Exit
 
-Your Choice: 6
+Your Choice: 6  
 Exiting System.....
+
 
 
