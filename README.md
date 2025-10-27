@@ -24,12 +24,18 @@ Choose
 5. Print data         6. Copy File
 7. Move File          8. Rename File
 9. Exit
+
 Your Choice : 1
 Enter Path (without file): D:\Files
+
 Enter file name with extension: example.txt
+
 File Created Successfully!
+
 Do you want to add text (y/n): y
+
 Enter new data: Hello, this is a sample text.
+
 Data written to file successfully.
 
 Choose
@@ -38,7 +44,10 @@ Choose
 5. Print data         6. Copy File
 7. Move File          8. Rename File
 9. Exit
+
 Your Choice : 9
+
 Exiting system, please wait.....
+
 Thank You!
 
